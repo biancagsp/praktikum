@@ -1,0 +1,8 @@
+1. jika repository baru dibuat atau semua file yang ada di github belum ada di komputer kita harus 
+git clone (link dari repository)
+2. jika file atau kode di dalamnya baru dibuat atau diedit kita harus 
+git add (nama file)
+3. jika sudah diadd maka kita harus 
+git commit -m "komentar"
+4. untuk melakukan update ke github kita harus 
+git push origin main:main
